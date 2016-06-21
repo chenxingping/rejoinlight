@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/speechChinese"
+        android:title="是否朗读英文"
+        android:visible="true" />
+    <item
+        android:id="@+id/high"
+        android:title="高"
+        android:visible="true" />
+    <item
+        android:id="@+id/normal"
+        android:title="中"
+        android:visible="true" />
+    <item
+        android:id="@+id/low"
+        android:title="低"
+        android:visible="true" />
+
+</menu>

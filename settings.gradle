@@ -1,0 +1,2 @@
+include ':app', ':lib', ':mylibrary', ':mylibrary2', ':mylibrary3', ':mylibrary4', ':lib2', ':lib5'
+include ':libuvccamera'

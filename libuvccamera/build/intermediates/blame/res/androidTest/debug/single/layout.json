@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\AlterDemo\\MyApplication9\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\AndroidProject\\AlterDemo\\MyApplication9\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\AlterDemo\\MyApplication9\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_camera.xml",
+        "source": "E:\\AndroidProject\\AlterDemo\\MyApplication9\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_camera.xml"
+    }
+]
